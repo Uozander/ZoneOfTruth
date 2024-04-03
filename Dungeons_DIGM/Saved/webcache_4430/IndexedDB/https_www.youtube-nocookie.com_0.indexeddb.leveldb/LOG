@@ -1,0 +1,6 @@
+2024/04/03-06:41:57.140 9dd4 Creating DB C:/Users/greshamh/Documents/GitHub/ZoneOfTruth/Dungeons_DIGM/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/04/03-06:41:57.155 9dd4 Reusing MANIFEST C:/Users/greshamh/Documents/GitHub/ZoneOfTruth/Dungeons_DIGM/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/03-06:49:30.883 5588 Level-0 table #5: started
+2024/04/03-06:49:30.891 5588 Level-0 table #5: 1166 bytes OK
+2024/04/03-06:49:30.892 5588 Delete type=0 #3
+2024/04/03-06:49:30.893 5588 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

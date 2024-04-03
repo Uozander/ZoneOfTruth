@@ -1,0 +1,2 @@
+[0403/063842.916:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0403/064029.579:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
